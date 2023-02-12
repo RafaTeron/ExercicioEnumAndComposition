@@ -5,8 +5,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="ComposiçãoCurso01"/>
+	<classpathentry kind="src" path="Composicao"/>
 	<classpathentry kind="src" path="ComposiçãoStringBuilder"/>
-	<classpathentry kind="src" path="Exercicio01"/>
+	<classpathentry kind="src" path="Exercicio"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
